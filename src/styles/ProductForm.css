@@ -1,0 +1,71 @@
+.product-form{
+
+    width:80%;
+
+    margin:35px auto;
+
+    background:rgb(56, 236, 110);
+
+    padding:30px;
+
+    border-radius:12px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.12);
+
+}
+
+.product-form h2{
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+}
+
+.product-form form{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:15px;
+
+    flex-wrap:wrap;
+
+}
+
+.product-form input{
+
+    width:250px;
+
+    padding:12px;
+
+    border:1px solid #ccc;
+
+    border-radius:8px;
+
+}
+
+.product-form button{
+
+    background:#0f663d;
+
+    color:white;
+
+    border:none;
+
+    padding:12px 25px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.product-form button:hover{
+
+    background:#084298;
+
+}

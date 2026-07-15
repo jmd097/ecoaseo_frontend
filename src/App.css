@@ -1,0 +1,18 @@
+/* ==========================================
+   Estilos generales de la aplicación
+========================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#40ac64;
+}
+
+.app{
+    min-height:100vh;
+}

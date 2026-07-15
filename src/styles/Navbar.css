@@ -1,0 +1,36 @@
+nav{
+    background:#f9fafc;
+    padding:15px;
+}
+
+nav ul{
+
+    list-style:none;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:40px;
+
+    margin:0;
+
+    padding:0;
+
+}
+
+nav li{
+
+    color:rgb(2, 0, 0);
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+nav li:hover{
+
+    color:#83fa79;
+
+}

@@ -1,0 +1,19 @@
+/* ==========================================
+   Estilos del Header
+   ========================================== */
+
+header {
+    background-color: rgb(56, 236, 110);
+    color: rgb(255, 253, 253);
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+
+header p {
+    font-size: 1rem;
+}

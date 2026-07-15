@@ -1,0 +1,81 @@
+.product-list{
+
+    width:85%;
+
+    margin:35px auto;
+
+}
+
+.product-list h2{
+
+    text-align:center;
+
+    margin-bottom:20px;
+
+}
+
+.product-list table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    background:white;
+
+    border-radius:12px;
+
+    overflow:hidden;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.12);
+
+}
+
+.product-list th{
+
+    background:#0d6efd;
+
+    color:white;
+
+    padding:15px;
+
+}
+
+.product-list td{
+
+    padding:15px;
+
+    border-bottom:1px solid #eee;
+
+    text-align:center;
+
+}
+
+.product-list tr:hover{
+
+    background:#f8f9fa;
+
+}
+
+.product-list button{
+
+    background:#dc3545;
+
+    color:white;
+
+    border:none;
+
+    padding:8px 18px;
+
+    border-radius:6px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.product-list button:hover{
+
+    background:#bb2d3b;
+
+}
