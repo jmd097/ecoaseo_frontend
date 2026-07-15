@@ -1,0 +1,17 @@
+SERVICIO NACIONAL DE APRENDIZAJE – SENA
+Programa: Análisis y Desarrollo de Software (ADSO)
+
+Evidencia: GA7-220501096-AA4-EV03
+Componente front-end del proyecto formativo y proyectos de clase
+
+Proyecto:
+Sistema de Gestión de Inventario EcoAseo S.A.S.
+
+Aprendiz:
+Juan Manuel Escobar
+
+Repositorio GitHub:
+https://github.com/jmd097/ecoaseo_frontend
+
+Descripción:
+Este repositorio contiene el código fuente del componente front-end desarrollado en React para el Sistema de Gestión de Inventario EcoAseo S.A.S., correspondiente a la evidencia GA7-220501096-AA4-EV03.
